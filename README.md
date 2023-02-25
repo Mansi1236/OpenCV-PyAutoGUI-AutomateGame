@@ -1,5 +1,5 @@
  ## Automate Games using OpenCV, PyAutoGUI and MediaPipe Libraries/Packages
- ### This is going to be an upcoming project about automating games with python libraries and packages
+ ### This is a project about automating games with python libraries and packages, mainly with OpenCV and PyAutoGUI
  ### At its core, this project's PyAutoGUI Library is used to take control of the mouse and the keyboard.
  ### The OpenCV library is used for computer vision to detect hand/facial gestures
 
